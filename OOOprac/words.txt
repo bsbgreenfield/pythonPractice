@@ -1,0 +1,11 @@
+cat
+
+
+dog
+bat
+
+#ran
+true
+sold
+
+house
